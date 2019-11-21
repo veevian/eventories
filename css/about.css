@@ -1,0 +1,15 @@
+body{
+ background:#d7ecf5;
+}
+.corn{
+	margin-top: 50px;
+}
+.card{
+   background: linear-gradient(70deg, #e6e6e6, #f7f7f7);
+    color: purple;
+    padding: 40px;
+    border-radius: 20%;
+}
+.corner{
+	margin-top: 50px;
+}
